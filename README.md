@@ -109,7 +109,14 @@ Authors:Tengda Han, Weidi Xie, Andrew Zisserman. [paper](https://link.springer.c
 Authors:Rui Qian, Tianjian Meng, Boqing Gong, Ming-Hsuan Yang, Huisheng Wang, Serge Belongie, Yin Cui. [paper](https://arxiv.org/abs/2008.03800) [code](https://github.com/tensorflow/models/tree/master/official/)
 12. **Self-supervised Co-training for Video Representation Learning**. NIPS2020.<br />
 Authors:Tengda Han, Weidi Xie, Andrew Zisserman. [paper](https://arxiv.org/abs/2010.09709)
-
+13. **Meta-optimized Angular Margin Contrastive Framework for Video-Language Representation Learning**. ECCV2024. <br />
+Authors:Thong Nguyen, Yi Bin, Xiaobao Wu, Xinshuai Dong, Zhiyuan Hu, Khoi Le, Cong-Duy Nguyen, See-Kiong Ng, Luu Anh Tuan. [paper](https://arxiv.org/abs/2407.03788) 
+14. **Improving Multimodal Sentiment Analysis: Supervised Angular Margin-based Contrastive Learning for Enhanced Fusion Representation**. EMNLP2023. <br />
+Authors:Cong-Duy Nguyen, Thong Nguyen, Duc Anh Vu, Luu Anh Tuan. [paper](https://arxiv.org/abs/2312.02227) 
+15. **Adaptive Contrastive Learning on Multimodal Transformer for Review Helpfulness Predictions**. EMNLP2022   . <br />
+Authors:Thong Nguyen, Xiaobao Wu, Anh-Tuan Luu, Cong-Duy Nguyen, Zhen Hai, Lidong Bing. [paper](https://arxiv.org/abs/2211.03524) [code](https://github.com/nguyentthong/adaptive_contrastive_mrhp)
+16. **KDMCSE: Knowledge Distillation Multimodal Sentence Embeddings with Adaptive Angular margin Contrastive Learning**. NAACL2024. <br />
+Authors:Cong-Duy Nguyen, Thong Nguyen, Xiaobao Wu, Anh Tuan Luu. [paper](https://arxiv.org/abs/2403.17486) [code](https://github.com/duyngtr16061999/kdmcse)
 
 
 
@@ -142,6 +149,10 @@ Authors:Wenzheng Zhang, Karl Stratos. [paper](https://arxiv.org/abs/2104.06245)
 Authors:Hirokazu Kiyomaru, Sadao Kurohashi. [paper](https://aclanthology.org/2021.naacl-main.442/)
 14. **Fine-Tuning Pre-trained Language Model with Weak Supervision: A Contrastive-Regularized Self-Training Approach**. NAACL2021. <br />
 Authors:Yue Yu, Simiao Zuo, Haoming Jiang, Wendi Ren, Tuo Zhao, Chao Zhang. [paper](https://arxiv.org/abs/2010.07835)
+15. **Contrastive Learning for Neural Topic Model**. NIPS2021. <br />
+Authors:Thong Nguyen, Anh Tuan Luu. [paper](https://arxiv.org/abs/2110.12764) [code](https://github.com/nguyentthong/CLNTM)
+16. **Topic Modeling as Multi-Objective Contrastive Optimization**. ICLR2024. <br />
+Authors:Thong Nguyen, Xiaobao Wu, Xinshuai Dong, Cong-Duy T Nguyen, See-Kiong Ng, Anh Tuan Luu. [paper](https://arxiv.org/abs/2402.07577)
 
 
 ### [Language Contrastive Learning](#content)
